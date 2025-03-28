@@ -1,0 +1,8 @@
+Analyze the pdf file and give the terms and meanings
+in the following JSON format : 
+[
+    {
+        "term": "",
+        "meaning": ""
+    }
+]
