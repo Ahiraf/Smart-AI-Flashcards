@@ -1,7 +1,10 @@
+import os
 import google.generativeai as genai
 import json
 from create_image import create_term_image
-genai.configure(api_key="AIzaSyBQaFrZpYYEpGRPTE67V5Hv90S-KbCqXqA")
+
+api_key = os.environ.get("GEMINI_API_KEY")
+genai.configure(api_key)
 
 pdf = genai.upload_file("/Users/_kodiko_/Downloads/Statistics.pdf")
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
