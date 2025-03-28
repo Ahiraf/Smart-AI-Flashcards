@@ -20,6 +20,6 @@ def create_term_image(term, meaning, output_path="output.png"):
     meaning_x, meaning_y = 50, 150
     draw.text((meaning_x, meaning_y), wrapped_text, fill="#123b4f", font=meaning_font)
 
-    output_path = f"/Users/_kodiko_/Desktop/ Code/FlashCards/{term}.png"
+    output_path = f"/Users/_kodiko_/Desktop/ Code/Output/{term}.png"
     img.save(output_path)
     print(f"Image saved as {output_path}")
