@@ -1,4 +1,4 @@
-###### Smart AI Flashcards #####
+# Smart AI Flashcards #
 
 ### 📌 Overview
 
