@@ -14,6 +14,34 @@ Smart AI Flashcards is a project that automatically generates flashcards using A
 
 ***🔒 Secure API Handling:*** Keeps API keys safe by using environment variables.
 
+### DEMO 
+
+***1️⃣ Place Your PDF***
+
+Save your study material as a PDF in the /data folder.
+
+***2️⃣ Run the Script***
+
+python Code.py
+
+<img width="1272" alt="Screenshot 2025-03-28 at 4 39 48 PM" src="https://github.com/user-attachments/assets/e74cd4b8-5cd4-41f5-88b3-6710d25fb95d" />
+
+<img width="1272" alt="Screenshot 2025-03-28 at 4 40 34 PM" src="https://github.com/user-attachments/assets/e9ec52b4-ad07-4914-ae63-0150f7ce18a4" />
+
+
+## This will generate flashcards inside the /output folder,like the followings :
+
+![Statistics](https://github.com/user-attachments/assets/5fdd14bf-49ae-439d-8bc8-092eefcda278)
+
+![Cumulative Frequency curve or Ogive](https://github.com/user-attachments/assets/8cbf41cb-be96-4955-bc1e-4ac261b3e700)
+
+![Kurtosis](https://github.com/user-attachments/assets/a6303597-7b17-444d-a2ce-73818bb171cc)
+
+
+***📂 Project Structure***
+
+
+
 ### 🔧 Installation & Setup
 
 ***1️⃣ Clone the Repository***
@@ -39,30 +67,6 @@ export GEMINI_API_KEY='your_api_key_here'  # macOS/Linux
 set GEMINI_API_KEY='your_api_key_here'  # Windows
 
 Alternatively, add it to your .bashrc or .zshrc file for persistent access.
-
-### 📜 Usage
-
-***1️⃣ Place Your PDF***
-
-Save your study material as a PDF in the /data folder.
-
-***2️⃣ Run the Script***
-
-python Code.py
-
-<img width="1272" alt="Screenshot 2025-03-28 at 4 39 48 PM" src="https://github.com/user-attachments/assets/e74cd4b8-5cd4-41f5-88b3-6710d25fb95d" />
-
-<img width="1272" alt="Screenshot 2025-03-28 at 4 40 34 PM" src="https://github.com/user-attachments/assets/e9ec52b4-ad07-4914-ae63-0150f7ce18a4" />
-
-
-## This will generate flashcards inside the /output folder,like the followings :
-
-![Statistics](https://github.com/user-attachments/assets/5fdd14bf-49ae-439d-8bc8-092eefcda278)
-
-![Cumulative Frequency curve or Ogive](https://github.com/user-attachments/assets/8cbf41cb-be96-4955-bc1e-4ac261b3e700)
-
-![Kurtosis](https://github.com/user-attachments/assets/a6303597-7b17-444d-a2ce-73818bb171cc)
-
 
 ***📂 Project Structure***
 
