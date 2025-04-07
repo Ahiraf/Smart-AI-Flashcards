@@ -1,6 +1,6 @@
 # Smart AI Flashcards #
 
-### 📌 Overview
+### 📌 Overview 
 
 Smart AI Flashcards is a project that automatically generates flashcards using AI. It processes PDFs, extracts key terms and meanings, and creates visually appealing flashcards with images which are helpful for students to learn something in a short period of time!
 
