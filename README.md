@@ -63,8 +63,9 @@ pip install -r requirements.txt
 
 Store your GEMINI_API_KEY securely:
 
-export GEMINI_API_KEY='your_api_key_here'  # macOS/Linux
-set GEMINI_API_KEY='your_api_key_here'  # Windows
+export GEMINI_API_KEY='your_api_key_here' # macOS/Linux #
+
+set GEMINI_API_KEY='your_api_key_here' # Windows #
 
 Alternatively, add it to your .bashrc or .zshrc file for persistent access.
 
